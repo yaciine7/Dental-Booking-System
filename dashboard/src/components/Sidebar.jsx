@@ -18,7 +18,7 @@ export default function Sidebar({ current, onNavigate }) {
           <Stethoscope className="w-5 h-5 text-white" />
         </div>
         <div>
-          <p className="font-bold text-slate-800 leading-tight">Dental Admin</p>
+          <p className="font-bold text-slate-800 leading-tight">YacineMed Admin</p>
           <p className="text-xs text-slate-400">Clinic Dashboard</p>
         </div>
       </div>

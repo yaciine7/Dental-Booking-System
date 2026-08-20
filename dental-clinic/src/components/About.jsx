@@ -45,7 +45,7 @@ function About() {
               where every patient feels valued and cared for.
             </p>
             <p className="about__text">
-              Led by Dr. Amira Benali, our team is committed to personalized
+              Led by Dr. Kecir Mohamed Yacine, our team is committed to personalized
               treatment plans tailored to your unique needs. From routine
               check-ups to advanced cosmetic procedures, we ensure the highest
               standard of care at every visit.
@@ -59,7 +59,7 @@ function About() {
                 </svg>
               </div>
               <div>
-                <h3 className="about__dentist-name">Dr. Amira Benali</h3>
+                <h3 className="about__dentist-name">Dr. Kecir Mohamed Yacine</h3>
                 <p className="about__dentist-role">Lead Dentist &amp; Clinic Director</p>
               </div>
             </div>
