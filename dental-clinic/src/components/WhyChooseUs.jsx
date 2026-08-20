@@ -52,7 +52,7 @@ function WhyChooseUs() {
       <div className="container">
         <div className="section-header">
           <span className="section-label">Why Choose Us</span>
-          <h2 className="section-title">The SmileCare Difference</h2>
+          <h2 className="section-title">The YacineMed Difference</h2>
           <p className="section-subtitle">
             We go beyond standard dental care to create an experience that
             puts your comfort, health, and confidence first.

@@ -45,7 +45,7 @@ function Navbar() {
             </svg>
           </span>
           <span className="navbar__logo-text">
-            SmileCare
+            YacineMed
             <span className="navbar__logo-sub">Dental Clinic</span>
           </span>
         </a>

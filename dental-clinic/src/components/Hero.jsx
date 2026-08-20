@@ -33,7 +33,7 @@ function Hero() {
     <section id="home" className="hero">
       <div className="container hero__inner">
         <div className="hero__content">
-          <span className="hero__badge">Welcome to SmileCare</span>
+          <span className="hero__badge">Welcome to YacineMed</span>
           <h1 className="hero__title">
             Your Smile, <span className="hero__title-accent">Our Expertise.</span>
           </h1>

@@ -3,7 +3,7 @@ import "./Contact.css";
 const contactInfo = [
   {
     label: "Address",
-    value: "123 Dental Street, Algiers",
+    value: "YacineMed clinique ,Reghaia , Algiers",
     icon: (
       <svg
         viewBox="0 0 24 24"
@@ -18,7 +18,7 @@ const contactInfo = [
   },
   {
     label: "Phone",
-    value: "+213 XX XX XX XX",
+    value: "+213 772 74 92 59",
     href: "tel:+213000000000",
     icon: (
       <svg
@@ -33,7 +33,7 @@ const contactInfo = [
   },
   {
     label: "Email",
-    value: "contact@dentalclinic.com",
+    value: "yacinekecir63@gmail.com",
     href: "mailto:contact@dentalclinic.com",
     icon: (
       <svg

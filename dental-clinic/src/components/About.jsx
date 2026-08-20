@@ -39,7 +39,7 @@ function About() {
               Dedicated to Your Oral Health &amp; Beautiful Smile
             </h2>
             <p className="about__text">
-              At SmileCare Dental Clinic, we combine years of expertise with
+              At YacineMed Dental Clinic, we combine years of expertise with
               state-of-the-art technology to deliver exceptional dental care.
               Our mission is to provide a comfortable, welcoming environment
               where every patient feels valued and cared for.
